@@ -2,9 +2,7 @@
 We propose to develop a machine learning model that predicts credit card approval decisions based on applicant information. This project aims to automate and enhance the credit card approval process, improving efficiency, accuracy, and customer experience.
 # Automated Credit Card Approval System
 
-
-![Uploading creditcard_projecy.png…]()
-
+<img width="625" alt="creditcard_project" src="https://github.com/Kamalrautela31/Automated-Credit-Card-Approval-System-through-Machine-Learning/assets/128833066/955b4584-54e7-4ad5-a070-12abaa8f3cf9">
 
 ## Project Overview:
 We propose to develop a machine learning model that predicts credit card approval decisions based on applicant information. This project aims to automate and enhance the credit card approval process, improving efficiency, accuracy, and customer experience.
